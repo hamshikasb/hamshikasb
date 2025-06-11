@@ -4,11 +4,11 @@
 ---
 
 ### 🌟 About Me
-🎓 **B.Tech @ Vellore Institute of Technology, Chennai (2022–2026)**  
-💻 I enjoy building interactive and scalable apps using **Python**, **React**, and **Firebase**  
+🎓 Pursuing **B.Tech** at **Vellore Institute of Technology, Chennai** (Batch: 2022–2026)
+💻 Passionate about building scalable, interactive applications using **Python**, **React**, and **Firebase**  
 🎨 Passionate about crafting clean user interfaces with **Figma** and **Canva**  
 ☁️ Currently learning **Cloud Computing** with a focus on **Amazon Web Services (AWS)**  
-🤝 Open to collaboration on innovative tech projects and open-source contributions  
+🤝 Always open to collaborating on impactful projects and contributing to the open-source community
 
 ---
 
