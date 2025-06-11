@@ -9,7 +9,6 @@
 🎨 Passionate about crafting clean user interfaces with **Figma** and **Canva**  
 ☁️ Currently learning **Cloud Computing** with a focus on **Amazon Web Services (AWS)**  
 🤝 Open to collaboration on innovative tech projects and open-source contributions  
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/hamshika-sb-294551267/)
 
 ---
 
